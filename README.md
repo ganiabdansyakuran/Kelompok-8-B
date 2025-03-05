@@ -1,2 +1,2 @@
-# Kelompok-8-B-
+# Kelompok-8-B
 Geomath &amp; Pengprog repository
